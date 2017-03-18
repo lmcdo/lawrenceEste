@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img
   alt="Este.js"
   src="https://cloud.githubusercontent.com/assets/66249/6515278/de638916-c388-11e4-8754-184f5b11e770.jpeg"
@@ -127,3 +128,6 @@ React Native: [Getting Started](https://facebook.github.io/react-native/docs/get
 ## Credit
 
 Made by [Daniel Steigerwald](https://twitter.com/steida) and the community.
+=======
+# lawrenceEste
+>>>>>>> origin/master
